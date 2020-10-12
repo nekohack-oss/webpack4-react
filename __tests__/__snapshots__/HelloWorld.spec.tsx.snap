@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content render correctly 1`] = `
+Array [
+  <h1>
+    Hello React 16.13
+  </h1>,
+  <button
+    onClick={[Function]}
+  >
+    count is: 
+    0
+  </button>,
+  <p>
+    Edit 
+    <code>
+      components/HelloWorld.tsx
+    </code>
+     to test hot module replacement.
+  </p>,
+]
+`;
